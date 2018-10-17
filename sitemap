@@ -1,0 +1,13 @@
+<amp-iframe title="Sitemap"
+              src="https://cdn.rawgit.com/HendraSurya/sitemap-amp/master/sitemap-amp.html?url=https://blognyakhaerul.blogspot.com/"
+              height="750"
+              layout="fixed-height"
+              frameborder="0"
+              sandbox="allow-forms allow-scripts allow-same-origin allow-modals allow-popups">
+<amp-img src="https://2.bp.blogspot.com/-rRo__E6FsPs/Ws7U-IT8KNI/AAAAAAAAw_Q/qCwa6vKHgTIB-ytesdA4FlKrXMRYt5NMACLcBGAs/s1600/placeholder.png"
+             layout="fixed-height"
+             height="360"
+             width="auto"
+             placeholder>
+</amp-img>
+</amp-iframe>
